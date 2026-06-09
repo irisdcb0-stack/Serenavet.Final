@@ -1,0 +1,16 @@
+{
+  "name": "serena-vet",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sitio estático de Serena Vet con conexión a Supabase",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.35.0"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
